@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Fachri is an freshgraduated Computer Science student at Universitas Pendidikan Indonesia with a strong passion for artificial intelligence, machine learning, and robotics. His current research explores the design and inner mechanisms of advanced AI architectures across diverse domains, including computer vision, natural language processing, multimodal learning, and autonomous driving. By examining model components, learning strategies, and cross-domain architectural adaptations, he seeks to understand how different paradigms—such as attention-based models, convolutional networks —can be leveraged to build more robust, generalizable, and efficient AI systems that bridge theoretical innovations with practical challenges.
+Fachri is a freshgraduated Computer Science student at Universitas Pendidikan Indonesia with a strong passion for artificial intelligence, machine learning, and robotics. His current research explores the design and inner mechanisms of advanced AI architectures across diverse domains, including computer vision, natural language processing, multimodal learning, and autonomous driving. By examining model components, learning strategies, and cross-domain architectural adaptations, he seeks to understand how different paradigms—such as attention-based models, convolutional networks —can be leveraged to build more robust, generalizable, and efficient AI systems that bridge theoretical innovations with practical challenges.
 
 News
 ------
