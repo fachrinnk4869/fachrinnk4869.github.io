@@ -15,7 +15,7 @@ author_profile: true
         Oskar Natan,
         Bambang Wahono,
         Taufik Ibnu Salim
-   <br>[[Project]](https://github.com/fachrinnk4869/end-to-end-self-driving)
+   <br>[[Preprint]](https://arxiv.org/abs/2508.20762) | [[Project]](https://github.com/fachrinnk4869/end-to-end-self-driving)
 
 1. <b>Depth Estimation Using UNet with EfficientNet Backbone</b> <br>
    Fachri Najm Noer Kartiman, 
